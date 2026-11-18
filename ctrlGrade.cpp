@@ -50,7 +50,7 @@ int main(){
 void read_file (string fileName){
     ifstream inFile("student.txt");
 
-        if (!inFile){
+    if (!inFile){
         cout << "Error opening file: " << fileName << endl;
         return;
     }else{
