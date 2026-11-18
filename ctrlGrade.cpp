@@ -40,6 +40,9 @@ int main(){
         student_report(count);
     }
 
+
+    cout << "Prediction report and individual student reports have been generated successfully." << endl;
+    
     return 0;
 }
 
