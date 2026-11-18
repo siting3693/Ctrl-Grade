@@ -48,7 +48,14 @@ int main(){
 
 
 void read_file (string fileName){
-    ifstream inFile(fileName.c_str());
+    ifstream inFile("student.txt");
+
+        if (!inFile){
+        cout << "Error opening file: " << fileName << endl;
+        return;
+    }else{
+        cout << "File opened successfully: " << fileName << endl;
+    }
 
     for (count = 0; count < NUM_STUDENT; count++){
         inFile >> studentID[count];

@@ -1,0 +1,15 @@
+223001	Nur Aisyah Binti Hassan	88	91	85	94	90	96
+223002	Muhammad Amir Hakim	78	83	74	69	87	80
+223003	Tan Wei Jian	72	68	81	75	70	78
+223004	Muhammad Daniel Iskandar	96	89	93	98	94	92
+223005	Kavitha Devi Krishnan	61	72	58	67	75	64
+223006	Mohd Syafiq Azman	90	85	87	92	81	88
+223007	Ahmad Fikri Abdullah	48	62	55	45	58	60
+223008	Wong Mei Ling	75	70	68	82	79	85
+223009	Muhammad Aiman Zulkifli	99	95	92	97	90	98
+223010	Siti Khadijah Binti Omar	42	55	38	40	52	48
+223011	Raj Kumar Nair	65	58	72	63	69	74
+223012	Nurul Huda Binti Hamzah	84	77	88	71	86	80
+223013	Jonathan Anak Jali	35	45	41	38	50	46
+223014	Puteri Balqis Syazana	92	90	86	95	89	94
+223015	Lee Jia Xin	58	64	55	62	60	57
